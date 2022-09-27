@@ -20,15 +20,10 @@ package day03.var;
  */
 
 public class MainClass03 {
-	static String str1 = "전역변수";
-	
-	public static void local() {
-		String str2 = "지역변수";
-	}
 	
 	public static void main(String[] args) {
 
-		Card c1 = new Card(); // 첫번째 카드 객체생성
+		Card c1 = new Card(); // 첫번째 카드 객체생성 // 참조형 지역변수 동적
 		Card c2 = new Card(); // 두번째 카드 객체생성
 		
 		c1.type = "클로버";
@@ -50,6 +45,6 @@ public class MainClass03 {
 }
 
 class Card {
-	static int height = 20;
+	static int height = 20;  // 기본형 전역 정적(static)
 	String type = "";
 }
