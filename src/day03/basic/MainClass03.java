@@ -28,7 +28,6 @@ package day03.basic;
 5   ***56
 6    *456
  
- 
  */
 
 public class MainClass03 {
