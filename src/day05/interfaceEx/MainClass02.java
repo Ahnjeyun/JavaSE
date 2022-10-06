@@ -25,9 +25,20 @@ import day05.interfaceEx.mypac.SmartPhone;
  * 
  *   }
  *   
- * [[ 다형성(polymorphism) ]]
+ *    
+ *      [[ 접근제어자 ]]
+ * 
+ * public - 모든 클래스에서 접근 가능
+ * protected - 같은 패키지 또는 상속 관계에서 접근 가능.
+ * default - 같은 패키지 접근가능
+ * private - 같은 클래스 안에서만 접근가능
+ *    
+ *    
+ * 
+ *     [[ 다형성(polymorphism) ]]
  * 
  *    하나의 객체가 여러가지 타입을 가질 수 있는 것을 의미.
+ *   
  */
 
 public class MainClass02 {

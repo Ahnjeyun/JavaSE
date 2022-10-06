@@ -1,0 +1,21 @@
+package day06.thread.mypac;
+
+public class InterThread implements Runnable {
+
+	@Override
+	public void run() {
+		System.out.println("InterThread 가 시작되었습니다.");
+		
+		try {
+			Thread.sleep(2000);  // 2초 쉰다
+		} catch (Exception e) {}
+			
+			System.out.println("InterThread 가 동료됩니다.");
+			
+		
+		
+	}
+	
+	
+
+}
