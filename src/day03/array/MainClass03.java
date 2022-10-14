@@ -11,7 +11,7 @@ public class MainClass03 {
 		
 		// 배열의 내용 출력해보기
 		for(int i = 0 ; i<names.length; i++) {
-			System.out.println(names[i]);
+			System.out.print(names[i] + " ");
 		}
 		// 확장 for 문
 		for(String tmp:names) {
