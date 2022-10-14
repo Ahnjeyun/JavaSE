@@ -16,10 +16,10 @@ public class Ex03 {
 			System.out.println((i + 1) + "번째 요소 수의 값을 입력해주세요 : ");
 			num2[i] = stdIn.nextInt();
 		}
-		
+		System.out.print("a = {");
 		for (int i = 0; i < num2.length; i++) {
-				System.out.println("a" + i + " = {" + num2[i] + "}");
-			
+				System.out.print(num2[i] + ", ");
 		}
+		System.out.println("}");
 	}
 }
