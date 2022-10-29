@@ -5,7 +5,7 @@ import java.util.Random;
 import java.util.Scanner;
 // 월을 1~12의 수치로 표시한 후 영어단어를 입력시키는 영어단어 학습프로그램을 작성하시오.
 
-public class Ex01 {
+public class Exam01 {
 	public static void gameStart() {
 		Random rand = new Random();
 		Scanner stdIn = new Scanner(System.in);

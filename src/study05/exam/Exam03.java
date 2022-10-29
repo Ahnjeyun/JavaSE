@@ -13,7 +13,7 @@ package study05.exam;
     *
 */
 
-public class Ex03 {
+public class Exam03 {
 	public static void main(String[] args) {
 		
 		for(int i = 1; i < 10; i+=2) {

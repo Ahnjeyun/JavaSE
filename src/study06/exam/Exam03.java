@@ -3,7 +3,7 @@ package study06.exam;
 import java.util.Scanner;
 
 //요소 수를 입력하고 각 요소의 값을 입력하면 a = {5,6,7} 과 같이 표시해주는 프로그램의 예제
-public class Ex03 {
+public class Exam03 {
 
 	public static void main(String[] args) {
 		Scanner stdIn = new Scanner(System.in);

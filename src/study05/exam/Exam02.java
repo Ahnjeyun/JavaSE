@@ -11,7 +11,7 @@ package study05.exam;
 
 */
 
-public class Ex02 {
+public class Exam02 {
 	public static void main(String[] args) {
 		for (int i = 0; i < 5; i++) {            // 열
 			for(int j = 0; j < 9; j++) {         // 행

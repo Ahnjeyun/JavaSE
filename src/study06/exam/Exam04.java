@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 //시험 점수의 합계, 평균, 최고 점수, 최저 점수를 표시하는 프로그램을 작성하시오, 사람 수와 점수는 키보드로 입력할것
 
-public class Ex04 {
+public class Exam04 {
 	public static void main(String[] args) {
 		Scanner stdIn = new Scanner(System.in);
 		

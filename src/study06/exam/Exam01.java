@@ -5,7 +5,7 @@ import java.util.Scanner;
 //양의 정숫값으로 입력하면 그 값이 소수인지 아닌지를 판정하는 프로그램의 예제
 
 
-public class Ex01 {
+public class Exam01 {
 		public static void main(String[] args) {
 		 
 			Scanner stdIn = new Scanner(System.in);

@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 import java.util.Collections;       // 내림차순 추가
 
-public class Ex09 {
+public class Exam09 {
 
 	public static void main(String[] args) {
 		Scanner stdIn = new Scanner(System.in);

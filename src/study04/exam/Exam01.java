@@ -2,7 +2,7 @@ package study04.exam;
 
 import java.util.Random;
 
-public class Ex01 {
+public class Exam01 {
 
 	public static void main(String[] args) {
 		Random rand = new Random();

@@ -2,7 +2,7 @@ package study03.exam;
 
 import java.util.Scanner;
 
-public class Ex06 {
+public class Exam06 {
 	static int med3(int a, int b, int c) {
 		if (a >= b)
 			if (b >= c)

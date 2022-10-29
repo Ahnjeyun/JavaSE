@@ -8,7 +8,7 @@ package study05.exam;
  * 
  */
 
-public class Ex05 {
+public class Exam05 {
 	public static void main(String[] args) {
 		int x = 1;
 		
