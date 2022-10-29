@@ -1,4 +1,4 @@
-package study05.Ex;
+package study05.ex;
 
 /*
    2번

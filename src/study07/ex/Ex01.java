@@ -1,3 +1,4 @@
+package study07.ex;
 /*
 package study07.Ex;
 
